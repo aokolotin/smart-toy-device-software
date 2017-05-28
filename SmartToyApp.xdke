@@ -1,0 +1,158 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1494154383651,
+        "modified": 1494154383651,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1494154383650,
+        "modified": 1494154383650,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1494154383650,
+        "modified": 1494154383650,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1494790568230,
+        "modified": 1494790568230,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1494154383652,
+        "modified": 1494154383652,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1494154383652,
+        "modified": 1494154383652,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SmartToyApp.xdk": {
+        "previousModTime": 1494154383841,
+        "modified": 1494154383841,
+        "seen": true,
+        "name": "SmartToyApp.xdk"
+      },
+      "SmartToyApp.xdke": {
+        "previousModTime": 1495970334200,
+        "modified": 1495970334200,
+        "seen": true,
+        "name": "SmartToyApp.xdke"
+      },
+      "utl/cfg-app-platform.js": {
+        "previousModTime": 1494154383667,
+        "modified": 1494154383667,
+        "seen": true,
+        "name": "utl/cfg-app-platform.js"
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1494154383653,
+        "modified": 1494154383653,
+        "seen": true,
+        "name": "utl/version-compare.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1494154383780,
+        "modified": 1494154383780,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "startBoard.js": {
+        "previousModTime": 1494241921161,
+        "modified": 1494241921161,
+        "seen": true,
+        "name": "startBoard.js"
+      },
+      "startWs.js": {
+        "previousModTime": 1494259284759,
+        "modified": 1494259284759,
+        "seen": true,
+        "name": "startWs.js"
+      },
+      "commands.js": {
+        "previousModTime": 1495887757625,
+        "modified": 1495887757625,
+        "seen": true,
+        "name": "commands.js"
+      },
+      "led.js": {
+        "previousModTime": 1494257589192,
+        "modified": 1494257589192,
+        "seen": true,
+        "name": "led.js"
+      },
+      "textToSpeech.js": {
+        "previousModTime": 1495970358499,
+        "modified": 1495970358499,
+        "seen": true,
+        "name": "textToSpeech.js"
+      },
+      "vibration.js": {
+        "previousModTime": 1495288297584,
+        "modified": 1495288297584,
+        "seen": true,
+        "name": "vibration.js"
+      },
+      "internalEvents.js": {
+        "previousModTime": 1495887707108,
+        "modified": 1495887707108,
+        "seen": true,
+        "name": "internalEvents.js"
+      },
+      "lightSensor.js": {
+        "previousModTime": 1494791548309,
+        "modified": 1494791548309,
+        "seen": true,
+        "name": "lightSensor.js"
+      },
+      "handButtons.js": {
+        "previousModTime": 1495289920381,
+        "modified": 1495289920381,
+        "seen": true,
+        "name": "handButtons.js"
+      },
+      "initialize.js": {
+        "previousModTime": 1495887476632,
+        "modified": 1495887476632,
+        "seen": true,
+        "name": "initialize.js"
+      },
+      "hand.js": {
+        "previousModTime": 1495969369953,
+        "modified": 1495969369953,
+        "seen": true,
+        "name": "hand.js"
+      },
+      "accelerometer.js": {
+        "previousModTime": 1495967266055,
+        "modified": 1495967266055,
+        "seen": true,
+        "name": "accelerometer.js"
+      }
+    },
+    "boardFileStatus": {
+      "textToSpeech.js": {
+        "previousModTime": 1495970358773
+      }
+    }
+  }
+}
